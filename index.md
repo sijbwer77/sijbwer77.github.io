@@ -4,9 +4,9 @@ layout: splash
 header:
   overlay_color: "#fff"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/concrete.jpg
+  overlay_image: /assets/images/night-city-image.jpg
   actions:
-    - label: "Button"
+    - label: "프로필"
       url: "/sample/"
 excerpt: " "
 intro:
@@ -15,8 +15,8 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-## Title
+## 상단 바
 
 Body
 
-![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
+![collegeofcomputing](/assets/images/2.jpg)
