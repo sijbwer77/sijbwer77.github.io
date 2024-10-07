@@ -15,8 +15,8 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-## 상단 바
+## 소융대 건물을 달라
 
-Body
+과방을 달라
 
 ![collegeofcomputing](/assets/images/2.jpg)
